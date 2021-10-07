@@ -1,2 +1,1 @@
-# DSC180A-Project
-FALL2021 Public Repo
+# DSC180A-Methdology-0
